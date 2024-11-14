@@ -32,5 +32,10 @@
       "!{projectRoot}/**/*.spec.[jt]s"
     ]
   },
-  "nxCloudId": "6735aa51a0e0b4497d1729cb"
+  "nxCloudId": "6735aa51a0e0b4497d1729cb",
+  "generators": {
+    "@nx/angular:component": {
+      "style": "css"
+    }
+  }
 }
